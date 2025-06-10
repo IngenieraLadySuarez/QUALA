@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\repository\\sucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\repository\\sucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\services\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\services\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\interfaces\\isucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\interfaces\\isucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\services\\monedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\services\\monedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|c:\\studentapi\\quala.sucursales.ap_backend\\quala.sucursales.api\\quala.sucursales.api\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30105938-DE68-4908-8707-86637B3737D0}|Quala.Sucursales.Api\\Quala.Sucursales.Api.csproj|solutionrelative:quala.sucursales.api\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISucursalRepository.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Interfaces\\ISucursalRepository.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Interfaces\\ISucursalRepository.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Interfaces\\ISucursalRepository.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Interfaces\\ISucursalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:57:49.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SucursalRepository.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Repository\\SucursalRepository.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Repository\\SucursalRepository.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Repository\\SucursalRepository.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Repository\\SucursalRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:55:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\appsettings.json",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\appsettings.json",
+              "RelativeToolTip": "Quala.Sucursales.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T18:49:38.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Program.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Program.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:13:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:13:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonedaController.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Controllers\\MonedaController.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Controllers\\MonedaController.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Controllers\\MonedaController.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Controllers\\MonedaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:05:14.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonedaService.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Services\\MonedaService.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Services\\MonedaService.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Services\\MonedaService.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Services\\MonedaService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:05:05.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalController.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Controllers\\SucursalController.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Controllers\\SucursalController.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Controllers\\SucursalController.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Controllers\\SucursalController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:16:28.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SucursalService.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Services\\SucursalService.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Services\\SucursalService.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Services\\SucursalService.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Services\\SucursalService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:15:57.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:57:30.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Auth\\JwtService.cs",
+              "RelativeDocumentMoniker": "Quala.Sucursales.Api\\Auth\\JwtService.cs",
+              "ToolTip": "C:\\StudentApi\\Quala.Sucursales.Ap_Backend\\Quala.Sucursales.Api\\Quala.Sucursales.Api\\Auth\\JwtService.cs",
+              "RelativeToolTip": "Quala.Sucursales.Api\\Auth\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:55:40.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

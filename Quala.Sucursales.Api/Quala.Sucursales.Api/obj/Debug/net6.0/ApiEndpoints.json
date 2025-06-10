@@ -1,0 +1,176 @@
+[
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Quala.Sucursales.Api.DTOs.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.MonedaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Moneda",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.MonedaController",
+    "Method": "Create",
+    "RelativePath": "api/Moneda",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Quala.Sucursales.Api.DTOs.CreateMonedaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.MonedaController",
+    "Method": "Get",
+    "RelativePath": "api/Moneda/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.MonedaController",
+    "Method": "Update",
+    "RelativePath": "api/Moneda/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Quala.Sucursales.Api.DTOs.UpdateMonedaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.MonedaController",
+    "Method": "Delete",
+    "RelativePath": "api/Moneda/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.SucursalController",
+    "Method": "GetAll",
+    "RelativePath": "api/Sucursal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.SucursalController",
+    "Method": "Create",
+    "RelativePath": "api/Sucursal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "Quala.Sucursales.Api.DTOs.CreateSucursalDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.SucursalController",
+    "Method": "Update",
+    "RelativePath": "api/Sucursal/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "Quala.Sucursales.Api.DTOs.UpdateSucursalDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.SucursalController",
+    "Method": "Delete",
+    "RelativePath": "api/Sucursal/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Quala.Sucursales.Api.Controllers.SucursalController",
+    "Method": "Get",
+    "RelativePath": "api/Sucursal/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
